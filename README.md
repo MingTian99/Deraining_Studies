@@ -1,5 +1,5 @@
-# DerainZoo (Single Image vs. Video Based)
-[Tianyu Song]((https://github.com/MingTian99)) in [Dalian Polytechnic University]
+# Image Deraining Studies
+[Tianyu Song](https://github.com/MingTian99) in [Dalian Polytechnic University]
 
 ## 1 Description
    * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed in [web1](https://github.com/TaiXiangJiang/FastDeRain) and [web2](https://github.com/hongwang01/Video-and-Single-Image-Deraining).

@@ -1,5 +1,5 @@
 # DerainZoo (Single Image vs. Video Based)
-[Youzhao Yang](https://github.com/nnuyi), [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/) in [Fudan Machine Vision Lab](https://github.com/FudanMV)
+[Tianyu Song]((https://github.com/MingTian99/)) in [Dalian Polytechnic University]
 
 ## 1 Description
    * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed in [web1](https://github.com/TaiXiangJiang/FastDeRain) and [web2](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
@@ -319,6 +319,3 @@
 
 ## 5 Acknowledgement
 - Thanks for the sharing of codes of image quality metrics by [Wang, Hong](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
-
-## 6 Contact
-- e-mail: yzyang17@fudan.edu.cn
